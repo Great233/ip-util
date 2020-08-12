@@ -1,0 +1,30 @@
+{
+  "name": "ip-util",
+  "version": "1.0.0",
+  "description": "validate ipv4,ipv6,ip range;ipv4 to long, compare ipv4,ipv6",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Great233/ip-util.git"
+  },
+  "keywords": [
+    "ip"
+  ],
+  "author": "Great",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Great233/ip-util/issues"
+  },
+  "homepage": "https://github.com/Great233/ip-util",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-jest": "^26.3.0",
+    "babel-preset-env": "^1.7.0",
+    "jest": "^26.3.0",
+    "regenerator-runtime": "^0.13.7"
+  },
+  "dependencies": {}
+}
